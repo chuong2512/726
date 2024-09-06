@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5d810eb5f7b8542f491ad697daadef93, type: 3}
-  m_Name: Free
+  m_Name: SupoerPack
   m_EditorClassIdentifier: 
   id: 4
-  TypeIap: 2
-  IapId: com.blackbird.galaxyattack.freepack
-  Value: 2
+  TypeIap: 0
+  IapId: pack4
+  Value: 800
   DescriptionSalePercent: 
-  PriceOffline: Free
+  PriceOffline: 9.99$

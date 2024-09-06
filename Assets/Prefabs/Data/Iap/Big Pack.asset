@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 2
   TypeIap: 0
-  IapId: com.oman.carattack.bigdiamondpack
-  Value: 1050
+  IapId: pack3
+  Value: 525
   DescriptionSalePercent: +40%
-  PriceOffline: $9.99
+  PriceOffline: $4.99

@@ -35,7 +35,6 @@ public class LocalizedGUIText : MonoBehaviour
 	void OnChangeLanguage(LanguageManager languageManager)
 	{
 		//Initialize all your language specific variables here
-		GetComponent<GUIText>().text = LanguageManager.Instance.GetTextValue(localizedKey);
 	}
 }
 }//namespace SmartLocalization

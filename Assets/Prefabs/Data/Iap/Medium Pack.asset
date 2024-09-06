@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 1
   TypeIap: 0
-  IapId: com.oman.carattack.mediumdiamondpack
-  Value: 450
+  IapId: pack2
+  Value: 270
   DescriptionSalePercent: +20%
-  PriceOffline: $4.99
+  PriceOffline: $2.99

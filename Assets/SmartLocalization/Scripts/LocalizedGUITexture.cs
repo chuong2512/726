@@ -35,7 +35,6 @@ public class LocalizedGUITexture : MonoBehaviour
 	void OnChangeLanguage(LanguageManager languageManager)
 	{
 		//Initialize all your language specific variables here
-		GetComponent<GUITexture>().texture = LanguageManager.Instance.GetTexture(localizedKey);
 	}
 }
 }//namespace SmartLocalization

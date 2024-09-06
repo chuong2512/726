@@ -222,6 +222,11 @@ public class IapManager : Singleton<IapManager>, IStoreListener
         Debug.Log ("OnInitializeFailed InitializationFailureReason:" + error);
     }
 
+    public void OnInitializeFailed(InitializationFailureReason error, string message)
+    {
+        
+    }
+
 
     public PurchaseProcessingResult ProcessPurchase (PurchaseEventArgs args)
     {
